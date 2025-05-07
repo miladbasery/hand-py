@@ -6,7 +6,7 @@ Here is a simple example of a Python code that uses OpenCV and MediaPipe to scan
 
 ## Screenshots
 
-![App Screenshot](https://freeimage.host/i/3Otq8c7)
+![App Screenshot]([https://freeimage.host/i/3Otq8c7](https://i.postimg.cc/8ctPTV0T/Picsart-25-05-07-15-12-47-454.jpg))
 
 
 ## Deployment
