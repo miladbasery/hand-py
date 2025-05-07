@@ -37,7 +37,4 @@ run the project
 
 
 
-## Authors
-
-- [Atox Group](http://t.me/channelATOX)
 
